@@ -2,7 +2,7 @@
 
 ## 📌 Purpose of this Template
 
-This repository is the **starter** for your Assignment-2 submission in GitHub Classroom. You can implement your solution and push your work in this repository. Please free to edit this README.md file as per your requirements.
+This repository is the **starter** for your End Semester Project submission in GitHub Classroom. You can implement your solution and push your work in this repository. Please free to edit this README.md file as per your requirements.
 
 > **Scope (as per assignment brief):**
 > Give an introduction to your repository here: Eg. This repository contains a complete implementation for ...
